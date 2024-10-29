@@ -1,9 +1,12 @@
 # GetFolderNameDnD
 ドラッグ&amp;ドロップしたフォルダーのパスをクリップボードに保存する
 
+![getfoldernamednd](https://github.com/user-attachments/assets/40afbd8b-5faa-42bd-b65b-8e13d27baf42)
+
+
 ## 使い方
 
-- 実行する
+- GetFolderNameDnDを実行する
 - フォルダーをドラッグ&amp;ドロップする
 - OKをクリックする
 - クリップボードの値を取り出す
